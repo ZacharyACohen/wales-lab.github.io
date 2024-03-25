@@ -27,24 +27,24 @@
   pdbs:
   links:
 
-  - title: "**Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α**"
-  citation: "A M, Wales TE, Zhou H, Draga-Coleta S, Gorgulla C, Blackmore KA, Mittenbuhler MJ, Kim CR, Bogoslavski D, Zhang Q, Wang Z, Jedrychowski MP, Seo H, Song K, Xu AZ, Sebastian L, Gygi SP, Arthanari H, Dhe-Paganon S, Griffin PR, Engen JR, Spiegelman BM. (2023) *Molecular Cell*."
-  date: '202306'
-  image: '/images/pub/Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α.png'
-  pmid: 37267907
-  pmcid: 
-  biorxiv: 
-  pdf: 
-  pdbs:
-  links:
+  # - title: "**Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α**"
+  # citation: "A M, Wales TE, Zhou H, Draga-Coleta S, Gorgulla C, Blackmore KA, Mittenbuhler MJ, Kim CR, Bogoslavski D, Zhang Q, Wang Z, Jedrychowski MP, Seo H, Song K, Xu AZ, Sebastian L, Gygi SP, Arthanari H, Dhe-Paganon S, Griffin PR, Engen JR, Spiegelman BM. (2023) *Molecular Cell*."
+  # date: '202306'
+  # image: '/images/pub/Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α.png'
+  # pmid: 37267907
+  # pmcid: 
+  # biorxiv: 
+  # pdf: 
+  # pdbs:
+  # links:
 
-  - title: "**Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry**"
-  citation: "Peterle D, DePice D, Wales TE, Engen JR. (2023) *Journal of Chromatography A*."
-  date: '202301'
-  image: '/images/pub/Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry.png'
-  pmid: 36586285
-  pmcid: PMC9872520
-  biorxiv: 
-  pdf: 
-  pdbs:
-  links:
+  # - title: "**Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry**"
+  # citation: "Peterle D, DePice D, Wales TE, Engen JR. (2023) *Journal of Chromatography A*."
+  # date: '202301'
+  # image: '/images/pub/Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry.png'
+  # pmid: 36586285
+  # pmcid: PMC9872520
+  # biorxiv: 
+  # pdf: 
+  # pdbs:
+  # links:
