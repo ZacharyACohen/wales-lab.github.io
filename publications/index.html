@@ -19,6 +19,9 @@ bgimage: /images/microxtal_banner_tall.jpg
             <div class="6u$ 12u$(small)">
                 <ul>
                     <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt="pubmed link: {{publication.pmid}}">{{publication.pmid}}</a></li>
+                    {% if publication.doi %}
+                    <li><strong>DOI</strong>: <a href="https://doi.org/{{publication.doi}}" alt="DOI link: {{publication.doi}}">{{publication.doi}}</a></li>
+                    {% endif %}
                 </ul>
             </div>
         </div>
