@@ -19,9 +19,9 @@
   image: '/images/pub/Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α.png'
   pmid: 37267907
 
-#   - title: "**Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry**"
-#   citation: "Peterle D, DePice D, Wales TE, Engen JR. (2023) *Journal of Chromatography A*."
-#   date: '202301'
-#   image: '/images/pub/Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry.png'
-#   pmid: 36586285
+- title: "**Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry**"
+  citation: "Peterle D, DePice D, Wales TE, Engen JR. (2023) *Journal of Chromatography A*."
+  date: '202301'
+  image: '/images/pub/Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry.png'
+  pmid: 36586285
 
