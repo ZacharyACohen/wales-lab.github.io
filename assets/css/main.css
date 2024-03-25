@@ -4148,14 +4148,4 @@ body.is-mobile .banner > article {
 	border: 0;
 }
 
-.img-responsive {
-  width: 100%;
-  height: auto;
-}
 
-@media (min-width: 768px) {
-  .img-responsive {
-    max-width: 200px;
-    max-height: 150px;
-  }
-}
