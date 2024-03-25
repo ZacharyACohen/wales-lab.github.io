@@ -6,7 +6,7 @@ heading:
 bgimage: /images/microxtal_banner_tall.jpg
 ---
 {::nomarkdown}
-{% for publication in site.data.publications | sort: "date" %}
+{% for publication in site.data.publications %}
     <div class="content">
         <header class="align-left">
             <h3>{{ publication.title | markdownify }}</h3>
