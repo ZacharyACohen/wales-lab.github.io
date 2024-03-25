@@ -1,31 +1,11 @@
 - name: Thomas Wales
-  image: /images/members/MCT_headshot.webp
+  image: /images/members/Wales_headshot.webp
   position: Principal Investigator
   email: t.wales (at) northeastern.edu
   scholar: 
   twitter: 
   orcid: 
-  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. <br/><br/>
-
-        He was first introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
-        where he was a research assistant in [Tom Alber](https://news.berkeley.edu/2014/04/04/berkeley-professor-thomas-alber-dies-at-60/)’s laboratory. \
-        In the Alber lab, he worked on efforts to determine the structures of signaling proteins that are required for virulence in <em>Mycobacterium tuberculosis</em>. <br/><br/>
-
-        In 2014, he received his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the mentorship of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). \
-        As a graduate student, Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
-        key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
-        His work revealed the role of conformational polymorphism in defining specialized functions of microcompartment shell proteins, including [ligand binding](/publications#25102080) and [allosteric regulation](/publications#25752492). <br/><br/>
-
-        Mike joined [James Fraser's lab](https://fraserlab.com/) at [UCSF](https://ucsf.edu/) as a postdoc, where he helped develop new methods that combine temperature perturbations with static and time-resolved \
-        structural measurements to provide detailed insight into the conformational landscapes of biological macromolecules. These new methods, \
-        including [multi-temperature](/publications#26422513) and [temperature-jump](/publications#31527847) X-ray crystallography and solution scattering, are being applied by the Thompson lab and others to understand how \
-        protein function is modulated by genetic mutations, by interactions with other molecules, and by other physical stimuli. As a postdoctoral fellow, \
-        Mike was supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](http://www.bioxfel.org/) (NSF), \
-        a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](http://pbbr.ucsf.edu/). <br/><br/>
-
-        In 2020, Mike was appointed as Assistant Professor in the [Department of Chemistry and Biochemistry](https://chemistry.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/). \
-        He is co-PI of a Bioscience Campaign at the [Linac Coherent Light Source](https://lcls.slac.stanford.edu/), senior research personnel on the [INSITE](https://bii-insite.org/) team, \
-        and a member of the [NSF CREST-CCBM Center](https://ccbm.ucmerced.edu/)."
+  description: "This is Thomas"
 
 
 
@@ -33,27 +13,18 @@
   image: /images/members/sarah_ashrafi.webp
   position: Associate Scientist
   email: b.srinivasu (at) northeastern.edu
-  description: "Since taking her first biology 001 class at UCM Sarah has been growing interest into the microscopic world. In the Thompson lab she's been give an \
-opportunity to further her interest in research and biological sciences. In the future she hopes to find her passion and hopes Thompson lab will be her stepping stone \
-to finding what she truly wants to do. <br/><br/>
-
-In her free time Sarah loves annoying the stray cats around her apartment with food and affection. She is also a huge fan of rock climbing and skating transition."
+  description: "This is Bindu"
 
 - name: Shreya Ghosh
   image: /images/members/octavio_barron.webp
   position: Postdoc
   # pronouns: he/him/his
   email: sh.ghosh (at) northeastern.edu
-  description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
-
-He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
+  description: "This is Shreya"
 
 - name: Zachary Cohen
   image: /images/members/alexander_deary.webp
   position: Undergraduate Student
   email: cohen.za (at) northeastern.edu
-  description: "Alexander is a current graduate student in the department of Chemistry and Chemical Biology (CCB) at UC Merced. He received his Bachelors of Science in Biochemistry \
-with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
-research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
-GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
+  description: "This is Zach"
 
