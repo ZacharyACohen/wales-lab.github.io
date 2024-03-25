@@ -1,20 +1,29 @@
+---
+layout: pages
+title: Publications
+group: publications
+heading: 
+bgimage: /images/microxtal_banner_tall.jpg
+---
+{::nomarkdown}
 {% for publication in site.data.publications %}
-    <div class="content">
+    <div class="publication-container">
         <div class="publication-text">
-            <header class="align-left">
+            <header>
                 <h3>{{ publication.title | markdownify }}</h3>
                 <h4>{{ publication.citation | markdownify }}</h4>
             </header>
             <ul>
-                <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt="pubmed link: {{publication.pmid}}">{{publication.pmid}}</a></li>
+                <li><strong>PMID</strong>: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}">{{publication.pmid}}</a></li>
                 {% if publication.doi %}
-                <li><strong>DOI</strong>: <a href="https://doi.org/{{publication.doi}}" alt="DOI link: {{publication.doi}}">{{publication.doi}}</a></li>
+                <li><strong>DOI</strong>: <a href="https://doi.org/{{publication.doi}}">{{publication.doi}}</a></li>
                 {% endif %}
             </ul>
         </div>
-        <div class="imgfit">
+        <div class="publication-image">
             <img src="{{publication.image}}" alt="Publication Image">
         </div>
     </div>
     <hr>
 {% endfor %}
+{:/}
