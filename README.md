@@ -1,7 +1,6 @@
-# mthompson-lab.github.io
+# wales-lab.github.io
 
-Welcome to the source code for the website of the Thompson Lab, located at UC Merced. 
-
+Welcome to the source code for the website of the Wales Lab, located at Northeastern University.
 Technologies this website uses:  
 
     Jekyll
@@ -30,6 +29,6 @@ Technologies this website uses:
 
 ## Credits
 
-The basic framework for this website was borrowed from the website of the Keedy Lab at the the CUNY ASRC (https://keedylab.org), which is based on the website of Fraser Lab at UCSF (www.fraserlab.com).
+The framework of this website was borrowed from the Thompson Lab at https://thompsonlab.science/
 
 This website uses CSS styles from https://templated.co.
