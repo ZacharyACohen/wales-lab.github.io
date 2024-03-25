@@ -4149,3 +4149,25 @@ body.is-mobile .banner > article {
 }
 
 
+.content {
+    display: flex;
+    align-items: center; /* Aligns the children vertically in the middle */
+}
+
+.publication-text {
+    flex: 3; /* Takes up 3/5 of the space */
+    padding-right: 2rem; /* Adds some spacing between text and image */
+}
+
+.imgfit {
+    flex: 2; /* Takes up 2/5 of the space */
+    display: flex;
+    justify-content: center; /* Center image in the div */
+    overflow: hidden; /* In case the image is too big */
+}
+
+.imgfit img {
+    width: auto; /* Maintain aspect ratio */
+    height: 100%; /* Set height to fill the container */
+    max-width: none; /* Override any max-width */
+}
