@@ -1,11 +1,11 @@
-- name: Michael Thompson
+- name: Thomas Wales
   image: /images/members/MCT_headshot.webp
   position: Principal Investigator
-  pronouns: he/him/his
-  email: mthompson30 (at) ucmerced.edu
-  scholar: KDvVpWYAAAAJ
+  # pronouns: he/him/his
+  email: t.wales@northeastern.edu
+  scholar: 
   twitter: 
-  orcid: 0000-0002-6099-2027
+  orcid: 
   description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. <br/><br/>
 
         He was first introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
@@ -59,21 +59,21 @@
   
 #   On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
 
-- name: Sarah Ashrafi 
+- name: Bindu Srinivasu
   image: /images/members/sarah_ashrafi.webp
-  position: Undergraduate Student
-  pronouns: she/her/hers
-  email: sashrafi (at) ucmerced.edu
+  position: Associate Scientist
+  # pronouns: she/her/hers
+  email: b.srinivasu@northeastern.edu
   description: "Since taking her first biology 001 class at UCM Sarah has been growing interest into the microscopic world. In the Thompson lab she's been give an \
 opportunity to further her interest in research and biological sciences. In the future she hopes to find her passion and hopes Thompson lab will be her stepping stone \
 to finding what she truly wants to do. <br/><br/>
 
 In her free time Sarah loves annoying the stray cats around her apartment with food and affection. She is also a huge fan of rock climbing and skating transition."
 
-- name: Octavio Gabriel Barron 
+- name: Shreya Ghosh
   image: /images/members/octavio_barron.webp
-  position: Undergraduate Student
-  pronouns: he/him/his
+  position: Postdoc
+  # pronouns: he/him/his
   email: obarron (at) ucmerced.edu
   description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
 
