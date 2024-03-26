@@ -3,29 +3,43 @@
 
 - title: "**Covalent inhibition of pro-apoptotic BAX**"
   citation: "McHenry MW, Shi P, Camara CM, Cohen DT, Rettenmaier TJ, Adhikary U, Gygi MA, Yang K, Gygi SP, Wales TE, Engen JR, Wells JA, Walensky LD. (2024) *Nature Chemical Biology*."
-  date: '202401'
   image: '/images/pub/Covalent Inhibition of pro-apoptotic BAX.png'
   pmid: 38233584
   doi: 10.1038/s41589-023-01537-6
 
 - title: "**Conformational heterogeneity of the BTK PHTH domain drives multiple regulatory states**"
   citation: "Lin DY, Kueffer LE, Juneja P, Wales TE, Engen JR, Andreotti A. (2024) *Elife*."
-  date: '202401'
   image: '/images/pub/Conformational heterogeneity of the BTK PHTH domain drives multiple regulatory states.png'
   pmid: 38189455
   doi: 10.7554/eLife.89489
 
 - title: "**Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α**"
   citation: "A M, Wales TE, Zhou H, Draga-Coleta S, Gorgulla C, Blackmore KA, Mittenbuhler MJ, Kim CR, Bogoslavski D, Zhang Q, Wang Z, Jedrychowski MP, Seo H, Song K, Xu AZ, Sebastian L, Gygi SP, Arthanari H, Dhe-Paganon S, Griffin PR, Engen JR, Spiegelman BM. (2023) *Molecular Cell*."
-  date: '202306'
   image: '/images/pub/Irisin acts through its integrin receptor in a two-step process involving extracellular Hsp90α.png'
   pmid: 37267907
   doi: 10.1016/j.molcel.2023.05.008
 
 - title: "**Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry**"
   citation: "Peterle D, DePice D, Wales TE, Engen JR. (2023) *Journal of Chromatography A*."
-  date: '202301'
   image: '/images/pub/Increase the flow rate and improve hydrogen deuterium exchange mass spectrometry.png'
   pmid: 36586285
   doi: 10.1016/j.chroma.2022.463742
+
+- title: "**ATP-site inhibitors induce unique conformations of the acute myeloid leukemia-associated Src-family kinase, Fgr**"
+  citation: "Du S, Alvarado JJ, Wales TE, Moroco JA, Engen JR, Smithgall TE. (2022) *Structure*."
+  image: '/images/pub/ATP-site inhibitors induce unique conformations of the acute myeloid leukemia-associated Src-family kinase, Fgr.png'
+  pmid: 36115344
+  doi: 10.1016/j.str.2022.08.008
+
+- title: "**Simple and Fast Maximally Deuterated Control (maxD) Preparation for Hydrogen-Deuterium Exchange Mass Spectrometry Experiments**"
+  citation: "Peterle D, Wales TE, Engen JR. (2022) *Analytical Chemistry*."
+  image: '/images/pub/Simple and Fast Maximally Deuterated Control (maxD) Preparation for Hydrogen-Deuterium Exchange Mass Spectrometry Experiments.png'
+  pmid: 35796687
+  doi: 10.1021/acs.analchem.2c01446
+
+- title: "**Simple and Fast Maximally Deuterated Control (maxD) Preparation for Hydrogen-Deuterium Exchange Mass Spectrometry Experiments**"
+  citation: "Peterle D, Wales TE, Engen JR. (2022) *Analytical Chemistry*."
+  image: '/images/pub/Simple and Fast Maximally Deuterated Control (maxD) Preparation for Hydrogen-Deuterium Exchange Mass Spectrometry Experiments.png'
+  pmid: 35796687
+  doi: 10.1021/acs.analchem.2c01446
 
