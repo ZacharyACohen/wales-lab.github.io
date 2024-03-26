@@ -14,9 +14,9 @@
   link: "/members"
   group: members
 
-- name: join
-  link: "/join"
-  group: join
+- name: theory
+  link: "/theory"
+  group: theory
 
 - name: news
   link: "/news"
